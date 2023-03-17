@@ -61,3 +61,23 @@ Commiting to the Repository
 
 10. To Push the Local code to the remote Repository using the below command
 	"git push origin prod"
+	
+__________________________________________________________________________________________
+
+SSH Public and private Key Generation Process
+
+1. To Generate a SSH Key give the below command
+	"ssh-keygen -t ed25519 -C "YOUR_EMAIL_ADDRESS""
+
+2. Enter the file name you want to save the file
+
+3. You can also need to set password means we can give otherwise we can give it empty.
+
+4. Now your SSH key will be generated.
+
+5. To View the SSH key give the below command
+	"type FILE_NAME"
+Note : Both files are saved in same name only only different is public key file name comes with FILE_NAME.pub and private key comes with only FILE_NAME
+
+__________________________________________________________________________________________
+
