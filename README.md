@@ -82,3 +82,5 @@ Note : Both files are saved in same name only only different is public key file 
 
 __________________________________________________________________________________________
 
+To Start Ngrok go to the Ngrok exe folder and open cmd use the below command
+	"ngrok.exe http 8080"
