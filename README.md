@@ -77,6 +77,7 @@ SSH Public and private Key Generation Process
 
 5. To View the SSH key give the below command
 	"type FILE_NAME"
+
 Note : Both files are saved in same name only only different is public key file name comes with FILE_NAME.pub and private key comes with only FILE_NAME
 
 __________________________________________________________________________________________
