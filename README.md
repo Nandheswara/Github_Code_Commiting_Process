@@ -56,10 +56,15 @@ Commiting to the Repository
 8. To check the status of the files whether added or not using the below command
 	"git status"
 
-9. To Commit the files Using some message using this below command
+9. To add the files to the repository using the below command
+	"git add ."
+Note : If you want to add specfic file means you can use the below command
+	"git add FILE_NAME"
+
+10. To Commit the files Using some message using this below command
 	"git commit -m "Add the Message you want to show""
 
-10. To Push the Local code to the remote Repository using the below command
+11. To Push the Local code to the remote Repository using the below command
 	"git push origin prod"
 	
 __________________________________________________________________________________________
